@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on **MonolithHackathon**
 - 🌱 Learning **Web3**
-- 💬 Ask me about **React, Next.js, Web3, AWS**
+- 💬 Ask me about **React, Next.js, Expo and Native, Web3, AWS**
 - 📫 Reach me at **mahajanvatsal44@gmail.com**
 - 🐦 Twitter: [@mahajan_vatsal_](https://twitter.com/mahajan_vatsal_)
 
