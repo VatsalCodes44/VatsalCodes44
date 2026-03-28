@@ -1,12 +1,17 @@
 
 # Hi there, I'm Vatsal Mahajan 👋
 
-<div align="center">
+  <div align="center">
+    
+  <img src="https://private-user-images.githubusercontent.com/34113569/359990255-45eb11c8-1c1e-4e0e-b5ff-cf8bb9842684.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ2ODcyMDgsIm5iZiI6MTc3NDY4NjkwOCwicGF0aCI6Ii8zNDExMzU2OS8zNTk5OTAyNTUtNDVlYjExYzgtMWMxZS00ZTBlLWI1ZmYtY2Y4YmI5ODQyNjg0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI4VDA4MzUwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2ZGFhNmUxMjJkNTE0OGE5ODBkMTJlMDNjMjQ1ZjY0NDlhMmI5NzI0ODdmY2UzZjE2MDJkYmQ1NWM1NzhlOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.voafsOfAq1Qo-ayW0wYU8ecxG3g09p6Pp3_O7Iuzl6s" alt="Hello" />
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/mahajan_vatsal_?style=social)](https://twitter.com/mahajan_vatsal_)
-[![GitHub followers](https://img.shields.io/github/followers/VatsalCodes44?style=social)](https://github.com/VatsalCodes44)
-
-</div>
+  </div>
+  <div align="center">
+    
+  [![Twitter Follow](https://img.shields.io/twitter/follow/mahajan_vatsal_?style=social)](https://twitter.com/mahajan_vatsal_)
+  [![GitHub followers](https://img.shields.io/github/followers/VatsalCodes44?style=social)](https://github.com/VatsalCodes44)
+  
+  </div>
 
 ## 🚀 About Me
 
@@ -19,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React) 
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
