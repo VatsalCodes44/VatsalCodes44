@@ -15,7 +15,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **MonolithHackathon**
 - 🌱 Learning **Web3**
 - 💬 Ask me about **React, Next.js, Expo and Native, Web3, AWS**
 - 📫 Reach me at **mahajanvatsal44@gmail.com**
