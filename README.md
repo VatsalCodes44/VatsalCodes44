@@ -8,9 +8,7 @@
   </div>
   <div align="center">
     
-  [![Twitter Follow](https://img.shields.io/twitter/follow/mahajan_vatsal_?style=social)](https://twitter.com/mahajan_vatsal_)
-  [![GitHub followers](https://img.shields.io/github/followers/VatsalCodes44?style=social)](https://github.com/VatsalCodes44)
-  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/mahajan_vatsal_?style=social)](https://twitter.com/mahajan_vatsal_)  
   </div>
 
 ## 🚀 About Me
